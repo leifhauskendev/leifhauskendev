@@ -8,7 +8,7 @@
 - I am currently pursuing my Cyber Operations Bachelor's degree from Dakota State University
 
 - Email: leifhauskendev@gmail.com
-- Discord: leif#6342
+- Discord: leifk#6342
 
 <!---
 leifhauskendev/leifhauskendev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
