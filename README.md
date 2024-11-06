@@ -7,7 +7,7 @@
 - I am currently pursuing my Cyber Operations Bachelor's degree with a minor in Computer Science from Dakota State University
 
 - Email: leifhauskendev@gmail.com
-- Discord: leifj#6342
+- Discord: leifj
 
 <!---
 leifhauskendev/leifhauskendev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
