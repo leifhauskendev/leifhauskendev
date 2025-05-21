@@ -1,10 +1,10 @@
 - Hi, I’m Leif Hausken,
 
-- I’m interested in .NET developement, and automation development.
+- I’m interested in .NET developement, Python scripting, and automation development.
 
-- I’m currently learnjng about project management through a software engineering school project (more details later)
+- In my free time I plan to work on some python scripts that improve my knowledge of the language
 
-- I am currently pursuing my Cyber Operations Bachelor's degree with a minor in Computer Science from Dakota State University
+- I currently work at Federated Insurance as a Systems Developer
 
 - Email: leifhauskendev@gmail.com
 - Discord: leifj
